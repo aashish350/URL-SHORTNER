@@ -130,5 +130,5 @@ Tested both of the approaches but in case of hashes, sometimes the hashes were l
 * Mount volumes for MySql container to persist data outside of the container
 
 # Contributors
-email: ahmad.zeeshaan@gmail.com
+email: ahmad.aashish27280@gmail.com
 
